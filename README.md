@@ -1,8 +1,6 @@
-
-
 # 碱基日历
 
-这里是一个“碱基日历”，自2022年开始，每天更新一图。
+这里是一个“碱基日历”，每天更新，2022年一月开始。
 
 欢迎投稿，推荐或自荐素材，请[提交 issue](https://github.com/ShujiaHuang/biocalendar/issues) 。
 
