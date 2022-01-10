@@ -13,6 +13,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     |     |     |     |     |  1  |
 |  2  |  3  |  4  |  5  |  6  |  7  |![2022-01-08](https://static.fungenomics.com/images/2022/01/2022-01-08.png)|
+| ![2022-01-09](https://static.fungenomics.com/images/2022/01/2022-01-09.png) | ![2022-01-10](https://static.fungenomics.com/images/2022/01/2022-01-10.png) |  |  |  |  ||
 
 
 
