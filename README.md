@@ -7,6 +7,7 @@
 
 ## 2022
 - [**二月 (January)**](docs/2022/2022-02.md)
+
 |  Sun  |  Mon  |  Tue  |  Wed  |  Thu  |  Fri  |  Sat  |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     |     | ![2022-02-01](https://static.fungenomics.com/images/2022/02/2022-02-01.png) | ![2022-02-02](https://static.fungenomics.com/images/2022/02/2022-02-02.png) | ![2022-02-03](https://static.fungenomics.com/images/2022/02/2022-02-03.png) | ![2022-02-04](https://static.fungenomics.com/images/2022/02/2022-02-04.png) |  ![2022-02-05](https://static.fungenomics.com/images/2022/02/2022-02-05.png)  |
